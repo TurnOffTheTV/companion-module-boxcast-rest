@@ -1,16 +1,16 @@
 {
-	"id": "your-module-name",
-	"name": "your-module-name",
-	"shortname": "module-shortname",
-	"description": "A short one line description of your module",
-	"version": "0.0.0",
-	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-your-module-name.git",
-	"bugs": "https://github.com/bitfocus/companion-module-your-module-name/issues",
+	"id": "boxcast-rest",
+	"name": "boxcast-rest",
+	"shortname": "boxcast-rest",
+	"description": "Connect to the BoxCast REST API",
+	"version": "0.0.1",
+	"license": "GPL-3.0",
+	"repository": "git+https://github.com/TurnOffTheTV/companion-module-boxcast-rest.git",
+	"bugs": "https://github.com/TurnOffTheTV/companion-module-boxcast-rest/issues",
 	"maintainers": [
 		{
-			"name": "Your name",
-			"email": "Your email"
+			"name": "Peyton Anderson",
+			"email": "peytonjanderson@icloud.com"
 		}
 	],
 	"runtime": {
@@ -20,7 +20,7 @@
 		"entrypoint": "../main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "Your company",
-	"products": ["Your product"],
+	"manufacturer": "BoxCast",
+	"products": ["REST API"],
 	"keywords": []
 }

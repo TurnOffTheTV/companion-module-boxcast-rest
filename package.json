@@ -1,15 +1,15 @@
 {
-	"name": "your-module-name",
-	"version": "0.1.0",
+	"name": "boxcast-rest",
+	"version": "0.0.1",
 	"main": "main.js",
 	"scripts": {
 		"format": "prettier -w .",
 		"package": "companion-module-build"
 	},
-	"license": "MIT",
+	"license": "GPL-3.0",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bitfocus/companion-module-your-module-name.git"
+		"url": "git+https://github.com/TurnOffTheTV/companion-module-boxcast-rest.git"
 	},
 	"dependencies": {
 		"@companion-module/base": "~1.11.2"
