@@ -1,3 +1,3 @@
-## Your module
+## boxcast-rest
 
-Write some help for your users here!
+Use the config in Companion's web GUI to set up.

@@ -2,7 +2,7 @@
 	"id": "boxcast-rest",
 	"name": "boxcast-rest",
 	"shortname": "boxcast-rest",
-	"description": "Connect to the BoxCast REST API",
+	"description": "Connect to BoxCast's REST API to control stream and see analytics.",
 	"version": "0.0.1",
 	"license": "GPL-3.0",
 	"repository": "git+https://github.com/TurnOffTheTV/companion-module-boxcast-rest.git",
